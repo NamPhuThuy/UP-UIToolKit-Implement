@@ -1,0 +1,14 @@
+.panel .hello 
+{
+    background-color: #7cff73;
+}
+
+.test1 > * >.test2
+{
+    background-color: #ffb073;
+}
+
+Label.test3.test4
+{
+    background-color: #73c7ff;
+}

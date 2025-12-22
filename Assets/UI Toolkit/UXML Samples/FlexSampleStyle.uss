@@ -1,0 +1,10 @@
+.my-split > * > .unity-two-pane-split-view__dragline--horizontal {
+    width: 8px;                /* THICKNESS */
+    background-color: #444;
+}
+
+/* Vertical split (horizontal drag line) */
+.my-split > * > .unity-two-pane-split-view__dragline--vertical {
+    height: 8px;               /* THICKNESS */
+    background-color: #444;
+}
